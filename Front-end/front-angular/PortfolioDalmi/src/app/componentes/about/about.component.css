@@ -1,0 +1,26 @@
+.about__img{
+    width: 300px;
+    border-radius: .5rem;
+    justify-self: center;
+    align-self: center;
+}
+
+.about__description{
+    justify-self: center;
+   
+}
+.about__data{
+
+    margin: var(--mb-2-5);
+}
+.about__info{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: var(--mb-0-5);
+}
+
+
+.about__buttons{
+    display: block;
+    justify-content: center;
+}
